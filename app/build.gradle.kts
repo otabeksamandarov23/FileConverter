@@ -28,7 +28,7 @@ dependencies {
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("com.google.android.material:material:1.8.0")
-    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
+    implementation("androidx.constraintlayout:constraintlayout:2.2.0")
 
     // Для работы с изображениями (например, Bitmap)
     implementation("com.github.juarezpi:imagemagick:1.9.0")

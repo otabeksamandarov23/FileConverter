@@ -37,5 +37,5 @@ dependencies {
     implementation("com.arthenica:ffmpeg-kit-full:5.0")
 
     // Для работы с документами DOCX (Apache POI для DOCX)
-    implementation("org.apache.poi:poi-ooxml:5.2.3")
+    implementation("org.apache.poi:poi-ooxml:5.3.0")
 }

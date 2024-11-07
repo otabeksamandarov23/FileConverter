@@ -1,0 +1,8 @@
+version: 2
+updates:
+  - package-ecosystem: "gradle"  # Указываем, что проект использует Gradle
+    directory: "/"  # Путь к папке с build.gradle.kts (корневая папка)
+    schedule:
+      interval: "weekly"  # Частота проверок: daily, weekly, monthly
+    commit-message:
+      prefix: "fix"  # Префикс для сообщений коммитов от Dependabot

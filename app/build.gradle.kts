@@ -34,7 +34,7 @@ dependencies {
     implementation("com.github.juarezpi:imagemagick:1.9.0")
 
     // Для работы с видео и аудио с помощью FFmpeg
-    implementation("com.arthenica:ffmpeg-kit-full:5.0")
+    implementation("com.arthenica:ffmpeg-kit-full:6.0")
 
     // Для работы с документами DOCX (Apache POI для DOCX)
     implementation("org.apache.poi:poi-ooxml:5.3.0")

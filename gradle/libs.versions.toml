@@ -22,7 +22,7 @@ androidx-constraintlayout = { module = "androidx.constraintlayout:constraintlayo
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
 androidx-core-ktx-v190 = { module = "androidx.core:core-ktx", version.ref = "coreKtxVersion" }
 apache-poi-ooxml = { module = "org.apache.poi:poi-ooxml", version.ref = "poiOoxmlVersion" }
-ffmpeg-kit-full = { module = "com.arthenica:ffmpeg-kit-full", version = "6.0-2.LTS" }
+ffmpeg-kit-full = { module = "com.arthenica:ffmpeg-kit-full", version = "6.0" }
 imagemagick = { module = "com.github.juarezpi:imagemagick", version.ref = "imagemagick" }
 itextpdf-itextpdf = { module = "com.itextpdf:itextpdf", version.ref = "itextpdfVersion" }
 junit = { group = "junit", name = "junit", version.ref = "junit" }
